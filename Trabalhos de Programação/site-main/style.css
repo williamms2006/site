@@ -1,0 +1,10 @@
+body{background-color: rgb(0, 0, 223);}
+header{background-color: #383D58;color: white}
+.cabeçalho-imagem{width: 20%;}
+.cabeçalho-lista-item{display: inline-block;margin: 0 16px;font-size: 24}
+.cabeçalho{background-color: forestgreen;color: antiquewhite;display: flex;justify-content: space-around;align-items: center;padding: 24px 0;}
+.escola-imagem{width: 25%;}
+.escola{background-image:linear-gradient(#6779b3,#8c8c8c) ;color: black;display: flex;}
+.escola-conteudo{width: 35%;display: flex;justify-content: center;align-items: center;padding: 24px 0;}
+.escola-titulo{padding: 24px 0;}
+body{font-family: "poppins",sans-serif;}
